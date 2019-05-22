@@ -9,5 +9,6 @@
 <body>
 	<input type="text" name="name">
 	<input type="text" name="msg">
+	<button id=submit>¡¶√‚</button>
 </body>
 </html>
